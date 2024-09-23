@@ -1,2 +1,3 @@
-# Slither.io-HACKS
-This is where I publish all versions of the Slither.io HACKS userscript.
+# Slither.io HACKS
+
+This will be updated soon...
