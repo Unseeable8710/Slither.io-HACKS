@@ -12,4 +12,4 @@ There are a lot of mods out there to modify Slither.io, but I couldn't really fi
 
 ## How to use
 
-
+Press Ctrl+I to increase your length by the default amount.
